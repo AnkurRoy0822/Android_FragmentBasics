@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/fragA"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorAccent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Fragment A"
+        android:textSize="30sp"
+        android:textAlignment="center"/>
+    <TextView
+        android:id="@+id/fragAtxt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="0"
+        android:background="@color/colorWhite"
+        android:layout_margin="50dp"
+        android:textSize="30sp"
+        android:textAlignment="center"/>
+    <Button
+        android:id="@+id/fragAbtn"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Increment"/>
+
+</LinearLayout>

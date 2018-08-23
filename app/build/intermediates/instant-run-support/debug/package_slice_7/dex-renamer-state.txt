@@ -1,0 +1,4 @@
+#Tue Jun 12 12:15:27 IST 2018
+base.0=/home/jhumpi/AndroidStudioProjects/Fragments/app/build/intermediates/transforms/dexMerger/debug/7
+path.0=classes.dex
+renamed.0=classes.dex
